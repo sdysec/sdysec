@@ -10,12 +10,12 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 💻 Sobre mim
 
 - 🎓 Estudando Informática para Internet
-- 🎮 Gosto de Terraria, Minecraft, Hollow Knight e vários indies
+- 🎮 Gosto de varios tipos de jogos indie
 - 🌱 Atualmente aprendendo programação
-- 💡 Quero trabalhar com TI
+- 💡 Quero trabalhar com TI na aréa de cybersegurity
 
 ---
 
@@ -34,11 +34,3 @@
 </p>
 
 ---
-
-## 🎵 Atualmente ouvindo
-
-> 🎧 alguma música que você gosta
-
----
-
-
