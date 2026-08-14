@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mori.jpg" width="25%">
+  <img src="./mori.jpg" width="50%">
 </p>
 
 <h1 align="center">👋 Opa, eu sou o Sdy!</h1>
