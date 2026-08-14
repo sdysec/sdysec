@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mori.jpg" width="50%">
+  <img src="./OMORI.gif" width="50%">
 </p>
 
 <h1 align="center"> Opa, eu sou o Rafael!</h1>
