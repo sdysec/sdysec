@@ -5,7 +5,7 @@
 <h1 align="center">👋 Opa, eu sou o Sdy!</h1>
 
 <p align="center">
-  💻 Estudante de informática · 🎮 Gamer · 🌱 Aprendendo programação
+  💻 Estudante de informática · 🌱 Aprendendo programação
 </p>
 
 ---
@@ -35,26 +35,10 @@
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
-</p>
-
----
-
 ## 🎵 Atualmente ouvindo
 
 > 🎧 alguma música que você gosta
 
 ---
 
-<p align="center">
-  <img src="./gato.gif" width="200">
-</p>
 
-<h3 align="center">⭐ Valeu por visitar meu perfil!</h3>
