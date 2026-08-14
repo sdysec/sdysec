@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Wallpaper Pc - Mori Buntarou" width="100%">
+  <img src="./banner.web.jfif" width="100%">
 </p>
 
 <h1 align="center">👋 Opa, eu sou o Sdy!</h1>
