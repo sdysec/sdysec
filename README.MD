@@ -2,7 +2,7 @@
   <img src="./mori.jpg" width="50%">
 </p>
 
-<h1 align="center"> Opa, eu sou o Rafaeal!</h1>
+<h1 align="center"> Opa, eu sou o Rafael!</h1>
 
 <p align="center">
   💻 Estudante de informática · 🌱 Aprendendo programação
